@@ -8,12 +8,12 @@ from os import getenv
 #Developed by @AsiaXDev
 #repo -> https://github.com/AsiaXDev/AquaDlBot
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-API_ID = os.getenv("API_ID")
-API_HASH = os.getenv("API_HASH")
+BOT_TOKEN = os.getenv("5202241387:AAFsaXnu_gZqyyFv9M4_f05jj0QdU44gV2U")
+API_ID = os.getenv("4557817")
+API_HASH = os.getenv("d74e82c8f8ab7c6a65306bc82ff916ed")
 
 Aqua = Client(
-    "my_bot",
+    "gtotfuckbot",
     bot_token="5202241387:AAFsaXnu_gZqyyFv9M4_f05jj0QdU44gV2U",
     api_id="4557817",
     api_hash="d74e82c8f8ab7c6a65306bc82ff916ed"
