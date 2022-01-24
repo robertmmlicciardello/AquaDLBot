@@ -14,6 +14,6 @@ DONATE: <a href="https://upayi.me/raveen-2003@axl">BUY US A COFFEE</a>
 
 CONTACT DEV : <a href="https://t.me/raveen2003">Asia</a>
 
-DEPLOY YOUR OWN BOT : [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/robertmmlicciardello/AsiaXDev/AquaDLBot)
+DEPLOY YOUR OWN BOT : [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/robertmmlicciardello/AquaDLBot)
 
 IF YOU LIKE THIS SERVICE FOLLOW MY MAIN ACCOUNT : <a href="https://github.com/raveen2003">Raveen</a>
