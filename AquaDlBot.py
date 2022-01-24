@@ -45,7 +45,7 @@ thumbpic= f"./thumbnail/aquadl.jpg"
 
 sudo_users = 1520625615 , 1871813121 #sudo_users can restart bot and view space left on vps
 
-owner_id = [1871813121]#owner_id will add something cooler in feauture
+owner_id = [1179577193]#owner_id will add something cooler in feauture
 
 #Developed by @AsiaXDev
 #repo -> https://github.com/AsiaXDev/AquaDlBot
