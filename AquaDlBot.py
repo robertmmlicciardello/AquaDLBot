@@ -14,9 +14,9 @@ API_HASH = os.getenv("API_HASH")
 
 Aqua = Client(
     "my_bot",
-    bot_token="BOT_TOKEN",
-    api_id="API_ID",
-    api_hash="API_HASH"
+    bot_token="5202241387:AAFsaXnu_gZqyyFv9M4_f05jj0QdU44gV2U",
+    api_id="4557817",
+    api_hash="d74e82c8f8ab7c6a65306bc82ff916ed"
     
 )
 
